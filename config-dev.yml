@@ -1,3 +1,3 @@
 config:
-  info: "master branch,springcloud-config/config-dev.yml version=07"
-  url: "curl -X POST http://localhost:3344/actuator/bus-refresh 999999"
+  info: "master branch,springcloud-config/config-dev.yml version=08"
+  url: "curl -X POST http://localhost:3344/actuator/bus-refresh 9999998"
